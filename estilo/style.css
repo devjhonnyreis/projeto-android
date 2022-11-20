@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'idroid';
-    src: url('../font/idroid.otf') format(opentype);
-    font-weight: normal;     
+    src: url('/font/idroid.otf') format(opentype);
+    font-weight: normal;
 }
 
 :root{
